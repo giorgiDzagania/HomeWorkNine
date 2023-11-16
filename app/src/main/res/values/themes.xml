@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TBCHomeWorkNine" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/navy_blue</item>
+        <item name="colorPrimaryVariant">@color/navy_blue</item>
+        <item name="colorOnPrimary">@color/navy_blue</item>
+    </style>
+
+    <style name="Theme.TBCHomeWorkNine" parent="Base.Theme.TBCHomeWorkNine" />
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/background_white_accent" />
+
+    <item
+        android:drawable="@drawable/model_person"
+        android:gravity="center"
+        android:top="14dp"
+        android:left="55dp"
+        android:right="5dp" />
+
+    <item
+        android:drawable="@drawable/oval"
+        android:gravity="top|start"
+        android:top="150dp"
+        android:left="16dp" />
+
+</layer-list>
